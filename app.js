@@ -50,7 +50,7 @@ const products = [
         id: "Kit 7",
         image: "img/img7.png",
         title: "Presente Tododia Flor de Pêra e Melissa",
-        description: "-Bodysplash tododia 200ml<br>-Hidratante corporal 200ml<br>-Caixa de sabonetes sortidos 5×90g cada",
+        description: "-Bodysplash tododia 200ml<br>-Hidratante corporal 100ml<br>-Caixa de sabonetes sortidos 5×90g cada",
         priceHtml: "De <s>R$193,70</s> por R$110,00"
     },
     {
